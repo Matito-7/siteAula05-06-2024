@@ -1,0 +1,22 @@
+.conteudo
+{
+    width: 1200px;
+    margin: auto;
+    padding: 3rem;
+}
+
+.conteudo div
+{
+    margin: 2rem;
+}
+
+.titulo, .subtitulo
+{
+    text-align: center;
+}
+
+.conteudo .texto
+{
+    font-size: 2rem;
+    text-align: justify;
+}

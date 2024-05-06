@@ -1,0 +1,20 @@
+header
+{
+    position: fixed;
+    width: 100%;
+}
+
+
+.listaNav
+{
+    display: flex;
+    background-color: black;
+    color: #fff;
+    justify-content: center;
+}
+
+.listaNav li
+{
+    font-size: 32px;
+    margin: 1rem;
+}
